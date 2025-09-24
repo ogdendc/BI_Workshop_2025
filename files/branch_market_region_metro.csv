@@ -1,0 +1,484 @@
+branch_market,branch_region,metro,region_name
+0,0,Pittsburgh,New England Plus
+1,4,Milwaukee,Great Lakes Belt
+1,7,Indianapolis,Great Lakes Belt
+1,20,St. Paul,Great Lakes Belt
+1,35,Cleveland,Great Lakes Belt
+1,69,Toledo,Great Lakes Belt
+1,130,Detroit,Great Lakes Belt
+1,139,Minneapolis,Great Lakes Belt
+1,184,Grand Rapids,Great Lakes Belt
+1,228,Chicago,Great Lakes Belt
+1,291,Columbus,Great Lakes Belt
+1,343,Milwaukee,Great Lakes Belt
+1,344,Indianapolis,Great Lakes Belt
+1,365,St. Paul,Great Lakes Belt
+1,373,Cleveland,Great Lakes Belt
+2,20,Orlando,Southeast & Texas Corridor
+2,21,Atlanta,Southeast & Texas Corridor
+2,22,Charlotte,Southeast & Texas Corridor
+2,92,Dallas,Southeast & Texas Corridor
+2,93,Houston,Southeast & Texas Corridor
+2,102,Miami,Southeast & Texas Corridor
+2,180,Nashville,Southeast & Texas Corridor
+2,246,Raleigh,Southeast & Texas Corridor
+2,326,Tampa,Southeast & Texas Corridor
+2,365,Jacksonville,Southeast & Texas Corridor
+3,54,Seattle,Pacific Megacities
+3,92,Sacramento,Pacific Megacities
+3,102,Denver,Pacific Megacities
+3,189,San Jose,Pacific Megacities
+3,204,Los Angeles,Pacific Megacities
+3,227,San Francisco,Pacific Megacities
+3,234,San Diego,Pacific Megacities
+3,236,Portland,Pacific Megacities
+3,246,Oakland,Pacific Megacities
+3,289,Phoenix,Pacific Megacities
+3,345,Seattle,Pacific Megacities
+4,1,Billings,Rocky Mountain Range
+4,2,Albuquerque,Rocky Mountain Range
+4,3,Helena,Rocky Mountain Range
+4,33,Cheyenne,Rocky Mountain Range
+4,40,Fort Collins,Rocky Mountain Range
+4,65,Missoula,Rocky Mountain Range
+4,136,Salt Lake City,Rocky Mountain Range
+4,139,Casper,Rocky Mountain Range
+4,152,Boise,Rocky Mountain Range
+4,172,Colorado Springs,Rocky Mountain Range
+4,237,Billings,Rocky Mountain Range
+4,291,Albuquerque,Rocky Mountain Range
+4,301,Helena,Rocky Mountain Range
+4,325,Cheyenne,Rocky Mountain Range
+4,344,Fort Collins,Rocky Mountain Range
+4,352,Missoula,Rocky Mountain Range
+4,353,Salt Lake City,Rocky Mountain Range
+4,374,Casper,Rocky Mountain Range
+5,7,Tacoma,Pacific Northwest
+5,17,Walla Walla,Pacific Northwest
+5,36,Medford,Pacific Northwest
+5,98,Portland,Pacific Northwest
+5,99,Eugene,Pacific Northwest
+5,166,Salem,Pacific Northwest
+5,184,Yakima,Pacific Northwest
+5,200,Bend,Pacific Northwest
+5,270,Spokane,Pacific Northwest
+5,271,Vancouver,Pacific Northwest
+5,292,Tacoma,Pacific Northwest
+5,346,Walla Walla,Pacific Northwest
+6,53,Miami,Florida Suncoast
+6,104,Fort Lauderdale,Florida Suncoast
+6,118,Jacksonville,Florida Suncoast
+6,153,Orlando,Florida Suncoast
+6,178,Tampa,Florida Suncoast
+6,179,Cape Coral,Florida Suncoast
+6,191,Sarasota,Florida Suncoast
+6,202,Tallahassee,Florida Suncoast
+6,229,St. Petersburg,Florida Suncoast
+6,293,Pensacola,Florida Suncoast
+6,328,Miami,Florida Suncoast
+6,341,Fort Lauderdale,Florida Suncoast
+6,364,Jacksonville,Florida Suncoast
+7,5,El Paso,Texas Triangle
+7,8,Austin,Texas Triangle
+7,45,Corpus Christi,Texas Triangle
+7,79,Lubbock,Texas Triangle
+7,81,Fort Worth,Texas Triangle
+7,101,San Antonio,Texas Triangle
+7,114,Arlington,Texas Triangle
+7,164,Plano,Texas Triangle
+7,186,Dallas,Texas Triangle
+7,211,Houston,Texas Triangle
+7,216,El Paso,Texas Triangle
+7,238,Austin,Texas Triangle
+7,239,Corpus Christi,Texas Triangle
+7,283,Lubbock,Texas Triangle
+7,290,Fort Worth,Texas Triangle
+7,310,San Antonio,Texas Triangle
+7,311,Arlington,Texas Triangle
+7,358,Plano,Texas Triangle
+8,19,Santa Rosa,Central California Valley
+8,42,Oakland,Central California Valley
+8,55,Stockton,Central California Valley
+8,66,Redding,Central California Valley
+8,70,Fresno,Central California Valley
+8,71,Sacramento,Central California Valley
+8,111,Chico,Central California Valley
+8,128,Bakersfield,Central California Valley
+8,129,Modesto,Central California Valley
+8,211,San Jose,Central California Valley
+8,247,Santa Rosa,Central California Valley
+8,261,Oakland,Central California Valley
+8,264,Stockton,Central California Valley
+8,321,Redding,Central California Valley
+8,360,Fresno,Central California Valley
+8,361,Sacramento,Central California Valley
+9,16,Oceanside,Southern California Coast
+9,39,Carlsbad,Southern California Coast
+9,97,Chula Vista,Southern California Coast
+9,126,Vista,Southern California Coast
+9,178,Escondido,Southern California Coast
+9,181,Santa Ana,Southern California Coast
+9,191,Anaheim,Southern California Coast
+9,202,San Diego,Southern California Coast
+9,273,Long Beach,Southern California Coast
+9,279,Irvine,Southern California Coast
+9,295,Oceanside,Southern California Coast
+9,322,Carlsbad,Southern California Coast
+9,342,Chula Vista,Southern California Coast
+9,362,Vista,Southern California Coast
+10,10,Baltimore,Mid-Atlantic Urban Belt
+10,12,Hampton,Mid-Atlantic Urban Belt
+10,17,Washington DC,Mid-Atlantic Urban Belt
+10,57,Virginia Beach,Mid-Atlantic Urban Belt
+10,72,Arlington,Mid-Atlantic Urban Belt
+10,79,Alexandria,Mid-Atlantic Urban Belt
+10,81,Richmond,Mid-Atlantic Urban Belt
+10,101,Newport News,Mid-Atlantic Urban Belt
+10,115,Norfolk,Mid-Atlantic Urban Belt
+10,127,Roanoke,Mid-Atlantic Urban Belt
+10,164,Baltimore,Mid-Atlantic Urban Belt
+10,165,Hampton,Mid-Atlantic Urban Belt
+10,188,Washington DC,Mid-Atlantic Urban Belt
+10,210,Virginia Beach,Mid-Atlantic Urban Belt
+10,239,Arlington,Mid-Atlantic Urban Belt
+10,256,Alexandria,Mid-Atlantic Urban Belt
+10,294,Richmond,Mid-Atlantic Urban Belt
+10,305,Newport News,Mid-Atlantic Urban Belt
+10,311,Norfolk,Mid-Atlantic Urban Belt
+10,358,Roanoke,Mid-Atlantic Urban Belt
+10,359,Baltimore,Mid-Atlantic Urban Belt
+11,15,Toledo,Lake Effect Cities
+11,44,Green Bay,Lake Effect Cities
+11,73,Kenosha,Lake Effect Cities
+11,110,Milwaukee,Lake Effect Cities
+11,144,Oshkosh,Lake Effect Cities
+11,163,Appleton,Lake Effect Cities
+11,216,Buffalo,Lake Effect Cities
+11,230,Racine,Lake Effect Cities
+11,255,Grand Rapids,Lake Effect Cities
+11,277,Madison,Lake Effect Cities
+11,304,Toledo,Lake Effect Cities
+11,306,Green Bay,Lake Effect Cities
+11,329,Kenosha,Lake Effect Cities
+11,347,Milwaukee,Lake Effect Cities
+11,348,Oshkosh,Lake Effect Cities
+12,28,Lincoln,Midwest Plains
+12,30,Overland Park,Midwest Plains
+12,52,Lawrence,Midwest Plains
+12,53,Kansas City,Midwest Plains
+12,63,Topeka,Midwest Plains
+12,88,Springfield,Midwest Plains
+12,104,St. Joseph,Midwest Plains
+12,149,Omaha,Midwest Plains
+12,150,Wichita,Midwest Plains
+12,194,Tulsa,Midwest Plains
+12,224,Lincoln,Midwest Plains
+12,245,Overland Park,Midwest Plains
+12,262,Lawrence,Midwest Plains
+13,74,Huntsville,Deep South Delta
+13,91,Montgomery,Deep South Delta
+13,196,Gulfport,Deep South Delta
+13,257,Mobile,Deep South Delta
+13,258,Biloxi,Deep South Delta
+13,277,New Orleans,Deep South Delta
+13,329,Memphis,Deep South Delta
+13,330,Jackson,Deep South Delta
+13,331,Birmingham,Deep South Delta
+13,375,Tuscaloosa,Deep South Delta
+16,13,Knoxville,Appalachian Highlands
+16,18,Lexington,Appalachian Highlands
+16,125,Louisville,Appalachian Highlands
+16,199,Frankfort,Appalachian Highlands
+16,215,Huntington,Appalachian Highlands
+16,220,Richmond,Appalachian Highlands
+16,241,Roanoke,Appalachian Highlands
+16,274,Bowling Green,Appalachian Highlands
+16,334,Charleston,Appalachian Highlands
+16,335,Ashland,Appalachian Highlands
+16,376,Knoxville,Appalachian Highlands
+17,30,Helena,Big Sky Country
+17,63,Casper,Big Sky Country
+17,84,Laramie,Big Sky Country
+17,86,Bozeman,Big Sky Country
+17,116,Sheridan,Big Sky Country
+17,123,Great Falls,Big Sky Country
+17,124,Cheyenne,Big Sky Country
+17,148,Missoula,Big Sky Country
+17,149,Billings,Big Sky Country
+17,150,Fort Collins,Big Sky Country
+17,209,Helena,Big Sky Country
+17,224,Casper,Big Sky Country
+17,285,Laramie,Big Sky Country
+17,297,Bozeman,Big Sky Country
+17,299,Sheridan,Big Sky Country
+17,332,Great Falls,Big Sky Country
+17,350,Cheyenne,Big Sky Country
+17,354,Missoula,Big Sky Country
+17,355,Billings,Big Sky Country
+18,31,Scottsdale,Desert Southwest
+18,59,Gilbert,Desert Southwest
+18,145,Henderson,Desert Southwest
+18,146,Chandler,Desert Southwest
+18,147,Mesa,Desert Southwest
+18,222,Peoria,Desert Southwest
+18,267,Las Vegas,Desert Southwest
+18,286,Tucson,Desert Southwest
+18,316,Glendale,Desert Southwest
+18,317,Phoenix,Desert Southwest
+18,318,Scottsdale,Desert Southwest
+20,67,Hartford,Yankee Heartland
+20,131,Worcester,Yankee Heartland
+20,132,Manchester,Yankee Heartland
+20,135,New Haven,Yankee Heartland
+20,151,Bridgeport,Yankee Heartland
+20,213,Cambridge,Yankee Heartland
+20,214,Lowell,Yankee Heartland
+20,253,Springfield,Yankee Heartland
+20,259,Providence,Yankee Heartland
+20,324,Stamford,Yankee Heartland
+20,325,Hartford,Yankee Heartland
+20,351,Worcester,Yankee Heartland
+21,68,Bowling Green,Ohio Valley
+21,174,Columbus,Ohio Valley
+21,175,Toledo,Ohio Valley
+21,251,Louisville,Ohio Valley
+21,312,Akron,Ohio Valley
+21,366,Youngstown,Ohio Valley
+21,367,Dayton,Ohio Valley
+22,9,Grand Forks,Dakotas & Northern Plains
+22,46,Rapid City,Dakotas & Northern Plains
+22,113,Sioux Falls,Dakotas & Northern Plains
+22,167,Aberdeen,Dakotas & Northern Plains
+22,168,Bismarck,Dakotas & Northern Plains
+22,185,Brookings,Dakotas & Northern Plains
+22,240,Minot,Dakotas & Northern Plains
+22,263,Watertown,Dakotas & Northern Plains
+22,281,Fargo,Dakotas & Northern Plains
+22,303,Jamestown,Dakotas & Northern Plains
+22,320,Grand Forks,Dakotas & Northern Plains
+22,356,Rapid City,Dakotas & Northern Plains
+22,357,Sioux Falls,Dakotas & Northern Plains
+23,52,Columbia,Ozark Gateway
+23,75,Jefferson City,Ozark Gateway
+23,117,Little Rock,Ozark Gateway
+23,192,Springfield,Ozark Gateway
+23,193,St. Louis,Ozark Gateway
+23,194,Rogers,Ozark Gateway
+23,245,Bentonville,Ozark Gateway
+23,282,Fort Smith,Ozark Gateway
+23,337,Jonesboro,Ozark Gateway
+23,338,Fayetteville,Ozark Gateway
+24,24,Lake Charles,Gulf Coast
+24,37,Port Arthur,Gulf Coast
+24,94,Corpus Christi,Gulf Coast
+24,190,Beaumont,Gulf Coast
+24,212,Victoria,Gulf Coast
+24,229,Brownsville,Gulf Coast
+24,260,Pensacola,Gulf Coast
+24,278,Galveston,Gulf Coast
+24,323,Mobile,Gulf Coast
+24,339,Harlingen,Gulf Coast
+24,363,Lake Charles,Gulf Coast
+24,364,Port Arthur,Gulf Coast
+25,11,Pomona,Inland Empire
+25,50,Rancho Cucamonga,Inland Empire
+25,74,Riverside,Inland Empire
+25,87,Fontana,Inland Empire
+25,121,San Bernardino,Inland Empire
+25,156,Chino,Inland Empire
+25,157,Ontario,Inland Empire
+25,231,Moreno Valley,Inland Empire
+25,242,Redlands,Inland Empire
+25,265,Upland,Inland Empire
+25,300,Pomona,Inland Empire
+26,11,Allentown,Keystone & Empire
+26,14,Trenton,Keystone & Empire
+26,27,Wilkes-Barre,Keystone & Empire
+26,29,Harrisburg,Keystone & Empire
+26,50,York,Keystone & Empire
+26,72,Scranton,Keystone & Empire
+26,85,Lancaster,Keystone & Empire
+26,110,Dover,Keystone & Empire
+26,156,Albany,Keystone & Empire
+26,157,Reading,Keystone & Empire
+26,209,Allentown,Keystone & Empire
+26,221,Trenton,Keystone & Empire
+26,231,Wilkes-Barre,Keystone & Empire
+26,242,Harrisburg,Keystone & Empire
+26,265,York,Keystone & Empire
+26,266,Scranton,Keystone & Empire
+26,275,Lancaster,Keystone & Empire
+26,314,Dover,Keystone & Empire
+26,331,Albany,Keystone & Empire
+26,348,Reading,Keystone & Empire
+27,26,Binghamton,Western New York
+27,28,Watertown,Western New York
+27,43,Plattsburgh,Western New York
+27,160,Jamestown,Western New York
+27,206,Utica,Western New York
+27,207,Albany,Western New York
+27,208,Syracuse,Western New York
+27,243,Elmira,Western New York
+27,244,Buffalo,Western New York
+27,284,Rochester,Western New York
+27,296,Binghamton,Western New York
+27,307,Watertown,Western New York
+27,315,Plattsburgh,Western New York
+27,319,Jamestown,Western New York
+27,333,Utica,Western New York
+27,349,Albany,Western New York
+28,34,Raleigh,Carolina Piedmont
+28,76,Concord,Carolina Piedmont
+28,133,Gastonia,Carolina Piedmont
+28,135,Greensboro,Carolina Piedmont
+28,225,Durham,Carolina Piedmont
+28,252,Fayetteville,Carolina Piedmont
+28,287,Charlotte,Carolina Piedmont
+28,327,Winston-Salem,Carolina Piedmont
+29,6,Anderson,South Carolina Upstate
+29,38,Greenville,South Carolina Upstate
+29,47,Spartanburg,South Carolina Upstate
+29,182,Sumter,South Carolina Upstate
+29,238,Myrtle Beach,South Carolina Upstate
+29,254,Rock Hill,South Carolina Upstate
+29,302,Florence,South Carolina Upstate
+29,309,Columbia,South Carolina Upstate
+29,310,Aiken,South Carolina Upstate
+29,371,Charleston,South Carolina Upstate
+30,89,Columbus,Georgia Heartland
+30,112,Warner Robins,Georgia Heartland
+30,226,Albany,Georgia Heartland
+30,288,Augusta,Georgia Heartland
+31,41,Jackson,Tennessee Valley
+31,48,Knoxville,Tennessee Valley
+31,67,Bartlett,Tennessee Valley
+31,77,Franklin,Tennessee Valley
+31,151,Chattanooga,Tennessee Valley
+31,153,Nashville,Tennessee Valley
+31,189,Hendersonville,Tennessee Valley
+31,201,Johnson City,Tennessee Valley
+31,236,Clarksville,Tennessee Valley
+31,289,Murfreesboro,Tennessee Valley
+31,336,Jackson,Tennessee Valley
+32,15,Fishers,Indiana Crossroads
+32,23,Indianapolis,Indiana Crossroads
+32,55,Fort Wayne,Indiana Crossroads
+32,113,Lafayette,Indiana Crossroads
+32,114,South Bend,Indiana Crossroads
+32,129,Evansville,Indiana Crossroads
+32,162,Gary,Indiana Crossroads
+32,185,Carmel,Indiana Crossroads
+32,247,Hammond,Indiana Crossroads
+32,255,Bloomington,Indiana Crossroads
+32,263,Fishers,Indiana Crossroads
+32,272,Indianapolis,Indiana Crossroads
+32,303,Fort Wayne,Indiana Crossroads
+32,304,Lafayette,Indiana Crossroads
+32,321,South Bend,Indiana Crossroads
+32,370,Evansville,Indiana Crossroads
+33,26,Brooklyn Park,Twin Cities & North
+33,60,St. Paul,Twin Cities & North
+33,61,Duluth,Twin Cities & North
+33,64,Eagan,Twin Cities & North
+33,86,Plymouth,Twin Cities & North
+33,88,Eden Prairie,Twin Cities & North
+33,160,Maple Grove,Twin Cities & North
+33,203,Woodbury,Twin Cities & North
+33,262,Rochester,Twin Cities & North
+33,268,Bloomington,Twin Cities & North
+33,297,Brooklyn Park,Twin Cities & North
+33,319,St. Paul,Twin Cities & North
+33,340,Duluth,Twin Cities & North
+33,349,Eagan,Twin Cities & North
+33,372,Plymouth,Twin Cities & North
+34,29,Oshkosh,Wisconsin Heartland
+34,44,Waukesha,Wisconsin Heartland
+34,109,Kenosha,Wisconsin Heartland
+34,144,West Allis,Wisconsin Heartland
+34,197,Janesville,Wisconsin Heartland
+34,198,Racine,Wisconsin Heartland
+34,250,Appleton,Wisconsin Heartland
+34,257,Madison,Wisconsin Heartland
+34,258,La Crosse,Wisconsin Heartland
+34,266,Green Bay,Wisconsin Heartland
+34,308,Oshkosh,Wisconsin Heartland
+34,313,Waukesha,Wisconsin Heartland
+35,8,Florissant,Show-Me Metros
+35,10,OFallon,Show-Me Metros
+35,32,Blue Springs,Show-Me Metros
+35,36,St. Charles,Show-Me Metros
+35,62,Columbia,Show-Me Metros
+35,99,Kansas City,Show-Me Metros
+35,127,St. Louis,Show-Me Metros
+35,166,Independence,Show-Me Metros
+35,206,Lees Summit,Show-Me Metros
+35,223,Springfield,Show-Me Metros
+35,270,Florissant,Show-Me Metros
+35,271,OFallon,Show-Me Metros
+35,276,Blue Springs,Show-Me Metros
+35,292,St. Charles,Show-Me Metros
+35,296,Columbia,Show-Me Metros
+35,359,Kansas City,Show-Me Metros
+35,369,St. Louis,Show-Me Metros
+36,39,Peoria,Valley of the Sun
+36,98,Scottsdale,Valley of the Sun
+36,126,Gilbert,Valley of the Sun
+36,200,Phoenix,Valley of the Sun
+36,346,Mesa,Valley of the Sun
+38,6,Pueblo,Colorado Front Range
+38,38,Colorado Springs,Colorado Front Range
+38,47,Centennial,Colorado Front Range
+38,182,Aurora,Colorado Front Range
+38,186,Thornton,Colorado Front Range
+38,254,Arvada,Colorado Front Range
+38,302,Westminster,Colorado Front Range
+38,309,Lakewood,Colorado Front Range
+39,13,Mesquite,Nevada Basin
+39,125,Boulder City,Nevada Basin
+39,199,Sparks,Nevada Basin
+39,215,North Las Vegas,Nevada Basin
+39,220,Elko,Nevada Basin
+39,241,Henderson,Nevada Basin
+39,334,Reno,Nevada Basin
+40,31,Council Bluffs,Iowa Heartland
+40,43,Cedar Rapids,Iowa Heartland
+40,147,West Des Moines,Iowa Heartland
+40,207,Dubuque,Iowa Heartland
+40,208,Ames,Iowa Heartland
+40,316,Des Moines,Iowa Heartland
+40,333,Waterloo,Iowa Heartland
+41,3,Bellevue,Nebraska Plains
+41,33,North Platte,Nebraska Plains
+41,65,Lincoln,Nebraska Plains
+41,136,Norfolk,Nebraska Plains
+41,172,Hastings,Nebraska Plains
+41,228,Grand Island,Nebraska Plains
+41,259,Columbus,Nebraska Plains
+41,301,Omaha,Nebraska Plains
+43,18,Hutchinson,Kansas Heartland
+43,55,Salina,Kansas Heartland
+43,91,Leavenworth,Kansas Heartland
+43,196,Olathe,Kansas Heartland
+43,274,Topeka,Kansas Heartland
+43,330,Overland Park,Kansas Heartland
+43,335,Wichita,Kansas Heartland
+44,32,Edmond,Sooner State Cities
+44,62,Moore,Sooner State Cities
+44,123,Stillwater,Sooner State Cities
+44,222,Enid,Sooner State Cities
+44,223,Broken Arrow,Sooner State Cities
+44,243,Norman,Sooner State Cities
+44,244,Midwest City,Sooner State Cities
+44,276,Lawton,Sooner State Cities
+44,284,Tulsa,Sooner State Cities
+44,315,Muskogee,Sooner State Cities
+45,3,Jonesboro,Natural State
+45,45,Springdale,Natural State
+45,89,North Little Rock,Natural State
+45,112,Fayetteville,Natural State
+45,204,Fort Smith,Natural State
+45,226,Rogers,Natural State
+45,288,Conway,Natural State
+45,290,Little Rock,Natural State
+45,345,Pine Bluff,Natural State
+99,999,Kodiak,Alaska Frontier
